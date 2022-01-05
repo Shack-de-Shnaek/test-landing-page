@@ -296,6 +296,10 @@ footer {
         height: auto;
     }
     
+    .landing-content-container {
+        padding-top: 1rem;
+    }
+
     .card {
         width: 90%;
     }
