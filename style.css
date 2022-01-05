@@ -303,4 +303,12 @@ footer {
     .card {
         width: 90%;
     }
+
+    .quote-section {
+        padding: 1rem;
+    }
+
+    .cta-container {
+        padding: 1rem;
+    }
 }
