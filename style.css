@@ -95,7 +95,7 @@ footer {
     border-radius: 15px;
     font-size: 1rem;
     box-shadow: 2px 2px 6px 3px #c8c9c7;
-    transition: everything 0.5s;
+    transition: all 0.25s;
 }
 
 .nav-link:hover {
@@ -155,7 +155,7 @@ footer {
     align-self: center;
     padding-left: 1rem;
     padding-right: 1rem;
-    transition: everything 0.5s;
+    transition: all 0.5s;
 }
 
 .landing-text-container button:hover {
@@ -195,11 +195,12 @@ footer {
     min-width: 20rem;
     width: 20%;
     height: 80%;
+    min-height: 25rem;
     max-height: 50rem;
     padding: 1rem;
     box-shadow: 2px 2px 6px 3px #c8c9c7;
     border-radius: 15px;
-    transition: everything 1s;
+    transition: all 0.5s;
 }
 
 .card:hover {
@@ -281,7 +282,7 @@ footer {
     align-self: center;
     padding-left: 1rem;
     padding-right: 1rem;
-    transition: everything 0.5s;
+    transition: all 0.25s;
 }
 
 .cta-container > button:hover {
